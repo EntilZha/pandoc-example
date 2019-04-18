@@ -1,7 +1,7 @@
-# umd-comp-vision
+# Pandoc LaTeX Example
 
 ```
-watchexec -d md -- make hw2.pdf
+watchexec -e md -- make hw1.pdf
 ```
 Where `watchexec` from https://github.com/watchexec/watchexec reruns make whenever a file with extension md changes.
 

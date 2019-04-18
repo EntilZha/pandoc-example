@@ -1,4 +1,4 @@
-# umd-comp-vision
+# Pandoc LaTeX Example
 
 ```
 watchexec -d md -- make hw2.pdf

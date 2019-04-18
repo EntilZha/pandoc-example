@@ -22,4 +22,8 @@ Sample pandoc, [Section @sec:ds] describes some datasets
 | ActivityNet [@Heilbron_2015_CVPR] | $203 \times 137=27811$ | 203
 : Human annotated action classification datasets and their sizes {#tbl:ds}
 
+$$
+\sum_0^\infty 1 = x
+$$
+
 # References
